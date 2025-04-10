@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Program Files (x86)\Project\MatMod3\MatMod3\Source.cpp(23,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MatMod3.vcxproj -> E:\Program Files (x86)\Project\MatMod3\x64\Debug\MatMod3.exe
